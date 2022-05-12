@@ -5,6 +5,7 @@
 ### 프로젝트
 
 [국내 및 해외 라이브 정기 패치 작업](./sample_page)
+
 <img src="images/1_patch.png?raw=true"/>
 
 ---
@@ -12,6 +13,7 @@
 
 ---
 [P2E 시스템 연동 컨텐츠](/portfolio/sample_page2)
+
 <img src="images/2_p2e_01.png?raw=true"/>
 <img src="images/2_p2e_02.png?raw=true"/>
 
@@ -23,6 +25,7 @@
 
 ---
 [인챈트 시스템](/portfolio/sample_page2)
+
 <img src="images/5_enchant.png?raw=true"/>
 
 ---
@@ -35,4 +38,5 @@
 ---
 [핸디캡 모드](/portfolio/sample_page2)
 
+<img src="images/5_handicap_01.png?raw=true"/>
 ---
