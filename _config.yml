@@ -1,10 +1,7 @@
 title: yuk daeju # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
+description: > 
+  한국에 거주하는 C++ 게임 개발자.
   
+  포트폴리오 파일 [포트폴리오?](/pdf/daejuyuk.220325.pdf)
 theme: jekyll-theme-minimal
