@@ -17,6 +17,7 @@
 
 ---
 [미니맵](/portfolio/sample_page2)
+
 <img src="images/4_minimap_01.png?raw=true"/>
 <img src="images/4_minimap_02.png?raw=true"/>
 
